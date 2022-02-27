@@ -1,0 +1,5 @@
+@echo off
+REM test ta mere2
+cd test
+echo hello
+ 192.168.1.50
